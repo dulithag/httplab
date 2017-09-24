@@ -1,4 +1,5 @@
 ## v0.4.0-dev
+* Display CORS request by default (issue #42)
 * [bugfix] Location header not rendered to client (@vjeantet, issue #44)
 * CORS support via `-cors` (issue #39)
 
