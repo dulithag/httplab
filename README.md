@@ -33,6 +33,8 @@ Usage of httplab:
         Specifies custom config path.
   -cors
         Enable CORS.
+  -cors-display
+        Display CORS requests (default true)
   -port int
         Specifies the port where HTTPLab will bind to. (default 10080)
   -version
